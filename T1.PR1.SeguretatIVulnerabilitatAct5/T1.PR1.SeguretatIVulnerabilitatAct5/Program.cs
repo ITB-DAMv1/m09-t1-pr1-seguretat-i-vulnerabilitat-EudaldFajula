@@ -9,7 +9,7 @@ namespace Act5
         private static string _hashedPassword;
         private static string _username;
 
-        static void Main()
+        public static void Main()
         {
             const string MsgMenu = "Menu:" + "\n1. Registration"
                     + "\n2. Data Verification" + "\n3. RSA Encryption and Decryption"
@@ -40,7 +40,7 @@ namespace Act5
             }
         }
 
-        private static void Register()
+        public static void Register()
         {
             const string MsgEnterUser = "Enter username: ";
             const string MsgEnterPass = "Enter password: ";
@@ -61,7 +61,7 @@ namespace Act5
             Console.WriteLine(MsgHashedComb);
         }
 
-        private static void VerifyData()
+        public static void VerifyData()
         {
             const string MsgError = "No registration data found.\n";
             const string MsgEnterUser = "Enter username: ";
@@ -93,7 +93,7 @@ namespace Act5
             }
         }
 
-        private static void RsaEncryptionDecryption()
+        public static void RsaEncryptionDecryption()
         {
             const string MsgInput = "Enter text to encrypt: ";
 
