@@ -1,0 +1,14 @@
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\bin\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.exe
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\bin\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.deps.json
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\bin\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.runtimeconfig.json
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\bin\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.dll
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\bin\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.pdb
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.AssemblyInfoInputs.cache
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.AssemblyInfo.cs
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.csproj.CoreCompileInputs.cache
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.dll
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\refint\T1.PR1.SeguretatIVulnerabilitatAct5.dll
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.pdb
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\T1.PR1.SeguretatIVulnerabilitatAct5.genruntimeconfig.cache
+C:\Users\isard\Desktop\T1.PR1.SeguretatIVulnerabilitatAct5\T1.PR1.SeguretatIVulnerabilitatAct5\obj\Debug\net8.0\ref\T1.PR1.SeguretatIVulnerabilitatAct5.dll
